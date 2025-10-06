@@ -325,13 +325,6 @@ WHERE table_schema = 'airlines'
 
 ---
 
-## 👨‍💻 Author
-
-**Ankithkumar Chillapalli**  
-B.Tech in CSE (AI & ML) | Aspiring Data Analyst | Passionate about SQL and Data Analytics
-
-
-
 ## Contact
 
 For any questions or suggestions, please open an issue or contact me via LinkedIn:
